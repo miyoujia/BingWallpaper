@@ -13,7 +13,7 @@
 
 ### 1.you can clone the code and use eclipse to run it
 
-### 2.if you install jre, you can just download release.jar(Rlease/release.jar) and click it
+### 2.if you install jre, you can just download release.jar(Rlease/release.jar) and click it , or use "java -jar release.jar" to run it 
 
 ---
 
