@@ -12,9 +12,10 @@
 
 # how to run
 ---
-###1.you can clone the code and use eclipse to run it
+### 1.you can clone the code and use eclipse to run it
 
-###2.if you install jre, you can just download release.jar(Rlease/release.jar) and click it
+### 2.if you install jre, you can just download release.jar(Rlease/release.jar) and click it
 
 ---
+
 
